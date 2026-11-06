@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "2021–2022 Football Player Goal Contributions by Position and Age",
+    "section": "",
+    "text": "This scatterplot displays 2,703 outfield players across the 2021–2022 European Big 5 Leagues season, comparing total season goal contributions (Goals + Assists) across player age and position. Hover over any point to see the player’s name, squad, age, goals, assists, and per-90 efficiency."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This project analyzes 2,703 outfield football players from the 2021–2022 European Big 5 Leagues season, examining how season goal contributions (Goals + Assists) and per-90 efficiency vary by position and player age."
+  }
+]
