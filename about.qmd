@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+## About Me
+
+Hi, I'm **Hugo Lopes**! This website was created as part of [*Kane's Free Data Science Course*](https://bootcamp.davidkane.info/).
+
+- **GitHub Repository:** [Hugo-Lopes-7/milestone-5](https://github.com/Hugo-Lopes-7/milestone-5)
+
+## About This Project
+
+This project explores how goal contributions (goals plus assists) vary across playing time, position, and age for **2,920 individual football players** in Europe's Top 5 domestic leagues (Premier League, La Liga, Serie A, Bundesliga, and Ligue 1) during the **2021–2022 season**.
+
+### Data Source
+
+Player match and season statistics come from the **2021–2022 Football Player Stats** dataset compiled from [FBref](https://fbref.com/) and hosted on [Kaggle](https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats).
