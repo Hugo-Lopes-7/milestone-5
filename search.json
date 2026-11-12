@@ -2,15 +2,64 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "2021–2022 Football Player Goal Contributions by Position and Age",
+    "title": "Goal Contributions Across Europe’s Top Five Football Leagues (2021–2022)",
     "section": "",
-    "text": "This scatterplot displays 2,703 outfield players across the 2021–2022 European Big 5 Leagues season, comparing total season goal contributions (Goals + Assists) across player age and position. Hover over any point to see the player’s name, squad, age, goals, assists, and per-90 efficiency."
+    "text": "Across 2,920 individual players in the Premier League, La Liga, Serie A, Bundesliga, and Ligue 1 during the 2021–2022 season, total goal contributions (goals plus assists) rise steadily with playing time, but the rate of production depends heavily on position. Elite forwards separate sharply from the rest of the field—led by Kylian Mbappé (46 goal contributions), Karim Benzema (39), Robert Lewandowski (38), and Mohamed Salah (36)—while midfielders form a middle tier and defenders and goalkeepers rarely exceed five contributions even with over 3,000 minutes played."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This project analyzes 2,703 outfield football players from the 2021–2022 European Big 5 Leagues season, examining how season goal contributions (Goals + Assists) and per-90 efficiency vary by position and player age."
+    "text": "Hi, I’m Hugo Lopes! This website was created as part of Kane’s Free Data Science Course.\n\nGitHub Repository: Hugo-Lopes-7/milestone-5"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Hugo Lopes! This website was created as part of Kane’s Free Data Science Course.\n\nGitHub Repository: Hugo-Lopes-7/milestone-5"
+  },
+  {
+    "objectID": "about.html#about-this-project",
+    "href": "about.html#about-this-project",
+    "title": "About",
+    "section": "About This Project",
+    "text": "About This Project\nThis project explores how goal contributions (goals plus assists) vary across playing time, position, and age for 2,920 individual football players in Europe’s Top 5 domestic leagues (Premier League, La Liga, Serie A, Bundesliga, and Ligue 1) during the 2021–2022 season.\n\nData Source\nPlayer match and season statistics come from the 2021–2022 Football Player Stats dataset compiled from FBref and hosted on Kaggle."
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Position, Age, and Efficiency Analysis",
+    "section": "",
+    "text": "Hover over any dot to inspect an individual outfield player’s age, club, position, and season goal contributions."
+  },
+  {
+    "objectID": "analysis.html#player-age-vs.-goal-contributions-2703-outfield-players",
+    "href": "analysis.html#player-age-vs.-goal-contributions-2703-outfield-players",
+    "title": "Position, Age, and Efficiency Analysis",
+    "section": "",
+    "text": "Hover over any dot to inspect an individual outfield player’s age, club, position, and season goal contributions."
+  },
+  {
+    "objectID": "analysis.html#goal-contribution-efficiency-by-age-across-positions",
+    "href": "analysis.html#goal-contribution-efficiency-by-age-across-positions",
+    "title": "Position, Age, and Efficiency Analysis",
+    "section": "2. Goal Contribution Efficiency by Age Across Positions",
+    "text": "2. Goal Contribution Efficiency by Age Across Positions\nTo measure per-minute efficiency without tiny-sample distortions, this chart shows all 1,518 outfield players who played at least 10 full 90-minute matches (90s &gt;= 10, or 900+ minutes)."
+  },
+  {
+    "objectID": "analysis.html#distribution-of-goal-contributions-by-position-and-age",
+    "href": "analysis.html#distribution-of-goal-contributions-by-position-and-age",
+    "title": "Position, Age, and Efficiency Analysis",
+    "section": "3. Distribution of Goal Contributions by Position and Age",
+    "text": "3. Distribution of Goal Contributions by Position and Age"
+  },
+  {
+    "objectID": "analysis.html#top-20-most-efficient-players-by-position",
+    "href": "analysis.html#top-20-most-efficient-players-by-position",
+    "title": "Position, Age, and Efficiency Analysis",
+    "section": "4. Top 20 Most Efficient Players by Position",
+    "text": "4. Top 20 Most Efficient Players by Position\n\nForwards (FW)\n\n\n\n\n\n\n\n\nMidfielders (MF)\n\n\n\n\n\n\n\n\nDefenders (DF)"
   }
 ]

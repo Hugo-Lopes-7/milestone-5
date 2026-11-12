@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – 2021–2022 Football Player Goal Contributions</title>
+<title>About – 2021–2022 European Football Player Goal Contributions</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">2021–2022 Football Player Goal Contributions</span>
+    <span class="navbar-title">2021–2022 European Football Player Goal Contributions</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -97,6 +97,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./analysis.html"> 
+<span class="menu-text">Position &amp; Age Analysis</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
@@ -113,9 +117,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -138,9 +140,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This project analyzes <strong>2,703 outfield football players</strong> from the 2021–2022 European Big 5 Leagues season, examining how season goal contributions (Goals + Assists) and per-90 efficiency vary by position and player age.</p>
+<section id="about-me" class="level2">
+<h2 class="anchored" data-anchor-id="about-me">About Me</h2>
+<p>Hi, I’m <strong>Hugo Lopes</strong>! This website was created as part of <a href="https://bootcamp.davidkane.info/"><em>Kane’s Free Data Science Course</em></a>.</p>
+<ul>
+<li><strong>GitHub Repository:</strong> <a href="https://github.com/Hugo-Lopes-7/milestone-5">Hugo-Lopes-7/milestone-5</a></li>
+</ul>
+</section>
+<section id="about-this-project" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-project">About This Project</h2>
+<p>This project explores how goal contributions (goals plus assists) vary across playing time, position, and age for <strong>2,920 individual football players</strong> in Europe’s Top 5 domestic leagues (Premier League, La Liga, Serie A, Bundesliga, and Ligue 1) during the <strong>2021–2022 season</strong>.</p>
+<section id="data-source" class="level3">
+<h3 class="anchored" data-anchor-id="data-source">Data Source</h3>
+<p>Player match and season statistics come from the <strong>2021–2022 Football Player Stats</strong> dataset compiled from <a href="https://fbref.com/">FBref</a> and hosted on <a href="https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats">Kaggle</a>.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -216,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Hugo-Lopes-7\.github\.io\/milestone-5\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
