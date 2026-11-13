@@ -7,27 +7,6 @@
     "text": "Across 2,920 individual players in the Premier League, La Liga, Serie A, Bundesliga, and Ligue 1 during the 2021–2022 season, total goal contributions (goals plus assists) rise steadily with playing time, but the rate of production depends heavily on position. Elite forwards separate sharply from the rest of the field—led by Kylian Mbappé (46 goal contributions), Karim Benzema (39), Robert Lewandowski (38), and Mohamed Salah (36)—while midfielders form a middle tier and defenders and goalkeepers rarely exceed five contributions even with over 3,000 minutes played."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi, I’m Hugo Lopes! This website was created as part of Kane’s Free Data Science Course.\n\nGitHub Repository: Hugo-Lopes-7/milestone-5"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
-    "section": "",
-    "text": "Hi, I’m Hugo Lopes! This website was created as part of Kane’s Free Data Science Course.\n\nGitHub Repository: Hugo-Lopes-7/milestone-5"
-  },
-  {
-    "objectID": "about.html#about-this-project",
-    "href": "about.html#about-this-project",
-    "title": "About",
-    "section": "About This Project",
-    "text": "About This Project\nThis project explores how goal contributions (goals plus assists) vary across playing time, position, and age for 2,920 individual football players in Europe’s Top 5 domestic leagues (Premier League, La Liga, Serie A, Bundesliga, and Ligue 1) during the 2021–2022 season.\n\nData Source\nPlayer match and season statistics come from the 2021–2022 Football Player Stats dataset compiled from FBref and hosted on Kaggle."
-  },
-  {
     "objectID": "analysis.html",
     "href": "analysis.html",
     "title": "Position, Age, and Efficiency Analysis",
@@ -61,5 +40,40 @@
     "title": "Position, Age, and Efficiency Analysis",
     "section": "4. Top 20 Most Efficient Players by Position",
     "text": "4. Top 20 Most Efficient Players by Position\n\nForwards (FW)\n\n\n\n\n\n\n\n\nMidfielders (MF)\n\n\n\n\n\n\n\n\nDefenders (DF)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Hugo Lopes! This website was created as part of Kane’s Free Data Science Course.\n\nGitHub Repository: Hugo-Lopes-7/european-football-stats"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Hugo Lopes! This website was created as part of Kane’s Free Data Science Course.\n\nGitHub Repository: Hugo-Lopes-7/european-football-stats"
+  },
+  {
+    "objectID": "about.html#about-this-project",
+    "href": "about.html#about-this-project",
+    "title": "About",
+    "section": "About This Project",
+    "text": "About This Project\nThis project explores how goal contributions (goals plus assists) vary across playing time, position, and age for 2,920 individual football players in Europe’s Top 5 domestic leagues (Premier League, La Liga, Serie A, Bundesliga, and Ligue 1) during the 2021–2022 season.\n\nData Source\nPlayer match and season statistics come from the 2021–2022 Football Player Stats dataset compiled from FBref and hosted on Kaggle."
+  },
+  {
+    "objectID": "veteran-strikers.html",
+    "href": "veteran-strikers.html",
+    "title": "Defying the Aging Curve: Europe’s Veteran Strikers",
+    "section": "",
+    "text": "Conventional football wisdom holds that forwards hit their physical and scoring peak between ages 25 and 28, before losing the burst of pace needed to separate from top-flight defenders. Yet across Europe’s Top 5 leagues in the 2021–2022 season, several of the continent’s deadliest attackers were well into their thirties. Built from FBref match logs covering all 362 forwards who played at least 900 league minutes (ten full 90-minute equivalents), the chart below plots each striker’s per-90 scoring and playmaking efficiency against age, highlighting the veterans aged 32 and older who matched or surpassed stars a decade younger.\n\n\n\n\n\n\n\n\n\nAt the very top of the scoring chart, 34-year-old Karim Benzema averaged 1.36 goal contributions per 90 minutes (27 goals and 12 assists for Real Madrid) in his Ballon d’Or campaign—virtually identical to 23-year-old Kylian Mbappé’s 1.37 per 90 at Paris Saint-Germain and just behind 21-year-old Erling Haaland’s 1.42 per 90 at Borussia Dortmund. Right alongside Benzema sit 33-year-old Robert Lewandowski (38 goal contributions, 1.16 per 90 at Bayern Munich) and 32-year-old Ciro Immobile (29 goal contributions, 0.97 per 90 at Lazio), while 35-year-old Jamie Vardy (0.85 per 90), 37-year-old Cristiano Ronaldo (21 goal contributions in the Premier League), and 40-year-olds Zlatan Ibrahimović (0.89 per 90 for AC Milan) and Jorge Molina (15 goal contributions for Granada in La Liga) all finished well above the positional median of 0.46 per 90.\nSurprisingly, the smoothed blue trend line actually ticks upward in a player’s thirties: the 47 regular forwards aged 32 and older averaged 0.55 goal contributions per 90 minutes (12.5 total contributions), outperforming the 151 forwards in the traditional prime window of ages 24–28 (0.48 per 90, 10.2 total). That uptick reflects two forces working together: penalty-box positioning, finishing craft, and playmaking vision age far better than sprint speed, and survivorship bias weeds out average forwards before their mid-thirties—notice how thin the orange dot cloud becomes past age 31 compared with ages 22–28. Clubs in Europe’s richest leagues rarely hand 900+ minutes to a striker over 32 unless he is still producing at an elite level."
+  },
+  {
+    "objectID": "explorer.html",
+    "href": "explorer.html",
+    "title": "Player & Club Explorer",
+    "section": "",
+    "text": "Use the controls below to filter players across Europe’s Top 5 leagues during the 2021–2022 season. Select a league, club, or position—or adjust the minutes and age sliders—to dynamically update both the interactive chart and the player table below.\n\n\n\n\n\n\nPosition\n\n\n\n\nForward (FW)\n\n\n\n\n\nMidfielder (MF)\n\n\n\n\n\nDefender (DF)\n\n\n\n\n\nGoalkeeper (GK)\n\n\n\n\n\n\n\n\n\nLeague\n\n\n\n\n\n\nClub (Squad)\n\n\n\n\n\n\n\n\n\n\nMinutes Played\n\n\n\n\nPlayer Age\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiltered Player Statistics Table\nClick any column header to sort, or use the search box to jump directly to a player."
   }
 ]

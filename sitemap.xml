@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Hugo-Lopes-7.github.io/milestone-5/index.html</loc>
+    <loc>https://Hugo-Lopes-7.github.io/european-football-stats/index.html</loc>
     <lastmod>2026-11-12T15:13:23.779Z</lastmod>
   </url>
   <url>
-    <loc>https://Hugo-Lopes-7.github.io/milestone-5/about.html</loc>
-    <lastmod>2026-11-12T15:18:16.386Z</lastmod>
+    <loc>https://Hugo-Lopes-7.github.io/european-football-stats/analysis.html</loc>
+    <lastmod>2026-11-12T15:14:52.054Z</lastmod>
   </url>
   <url>
-    <loc>https://Hugo-Lopes-7.github.io/milestone-5/analysis.html</loc>
-    <lastmod>2026-11-12T15:14:52.054Z</lastmod>
+    <loc>https://Hugo-Lopes-7.github.io/european-football-stats/about.html</loc>
+    <lastmod>2026-11-13T16:10:38.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Hugo-Lopes-7.github.io/european-football-stats/veteran-strikers.html</loc>
+    <lastmod>2026-11-13T16:19:39.405Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Hugo-Lopes-7.github.io/european-football-stats/explorer.html</loc>
+    <lastmod>2026-11-13T16:13:18.873Z</lastmod>
   </url>
 </urlset>

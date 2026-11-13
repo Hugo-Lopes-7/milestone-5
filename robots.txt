@@ -1,1 +1,1 @@
-Sitemap: https://Hugo-Lopes-7.github.io/milestone-5/sitemap.xml
+Sitemap: https://Hugo-Lopes-7.github.io/european-football-stats/sitemap.xml
